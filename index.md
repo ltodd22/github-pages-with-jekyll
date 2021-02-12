@@ -1,3 +1,3 @@
-# Welcome to my blog
+Hi there,
 
-I'm glad you are here. I plan to talk about ...
+I'm in the midst of learning to work with pages, and this is simply a demo.
